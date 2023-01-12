@@ -47,8 +47,8 @@ public class Robot extends TimedRobot {
     }
     
     public void teleopPeriodic () {
-       // robotContainer.Camera();
-       robotContainer.teleopPeriodic();
+        // robotContainer.Camera();
+        robotContainer.teleopPeriodic();
     }
 
     public void testInit () {
